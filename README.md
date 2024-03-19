@@ -16,9 +16,5 @@ Game based on the arcade game Space Invaders. Made with the guidance of the book
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Run the alien_invasion.py file in pycharm to start the game
 
