@@ -1,4 +1,4 @@
-###Alien Invasion
+### Alien Invasion
 
 Game based on the arcade game Space Invaders.
 
