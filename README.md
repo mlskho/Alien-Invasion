@@ -1,10 +1,6 @@
-<script src="https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc.js"></script># Project Title
+Alien Invasion
 
-Simple overview of use/purpose.
-
-## Description
-
-An in-depth paragraph about your project and overview of use.
+Game based on the arcade game Space Invaders.
 
 ## Getting Started
 
